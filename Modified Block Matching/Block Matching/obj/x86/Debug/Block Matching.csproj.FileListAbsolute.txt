@@ -1,0 +1,25 @@
+C:\Users\Sagar\Documents\Sag\Phase1\Block Matching\Block Matching\bin\Debug\Block Matching.exe
+C:\Users\Sagar\Documents\Sag\Phase1\Block Matching\Block Matching\bin\Debug\Block Matching.pdb
+C:\Users\Sagar\Documents\Sag\Phase1\Block Matching\Block Matching\bin\Debug\Compatibility.dll
+C:\Users\Sagar\Documents\Sag\Phase1\Block Matching\Block Matching\bin\Debug\Compatibility.pdb
+C:\Users\Sagar\Documents\Sag\Phase1\Block Matching\Block Matching\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Sagar\Documents\Sag\Phase1\Block Matching\Block Matching\obj\x86\Debug\MainWindow.baml
+C:\Users\Sagar\Documents\Sag\Phase1\Block Matching\Block Matching\obj\x86\Debug\MainWindow.g.cs
+C:\Users\Sagar\Documents\Sag\Phase1\Block Matching\Block Matching\obj\x86\Debug\App.g.cs
+C:\Users\Sagar\Documents\Sag\Phase1\Block Matching\Block Matching\obj\x86\Debug\Block Matching_MarkupCompile.cache
+C:\Users\Sagar\Documents\Sag\Phase1\Block Matching\Block Matching\obj\x86\Debug\Block Matching.g.resources
+C:\Users\Sagar\Documents\Sag\Phase1\Block Matching\Block Matching\obj\x86\Debug\Block_Matching.Properties.Resources.resources
+C:\Users\Sagar\Documents\Sag\Phase1\Block Matching\Block Matching\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Sagar\Documents\Sag\Phase1\Block Matching\Block Matching\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Sagar\Documents\Sag\Phase1\Block Matching\Block Matching\obj\x86\Debug\Block Matching.exe
+C:\Users\Sagar\Documents\Sag\Phase1\Block Matching\Block Matching\obj\x86\Debug\Block Matching.pdb
+C:\Users\Sagar\Documents\Sag\Phase1\Block Matching\Block Matching\bin\Debug\AForge.dll
+C:\Users\Sagar\Documents\Sag\Phase1\Block Matching\Block Matching\bin\Debug\AForge.Imaging.dll
+C:\Users\Sagar\Documents\Sag\Phase1\Block Matching\Block Matching\bin\Debug\AForge.Video.DirectShow.dll
+C:\Users\Sagar\Documents\Sag\Phase1\Block Matching\Block Matching\bin\Debug\AForge.Video.dll
+C:\Users\Sagar\Documents\Sag\Phase1\Block Matching\Block Matching\bin\Debug\AForge.Math.dll
+C:\Users\Sagar\Documents\Sag\Phase1\Block Matching\Block Matching\bin\Debug\AForge.xml
+C:\Users\Sagar\Documents\Sag\Phase1\Block Matching\Block Matching\bin\Debug\AForge.Imaging.xml
+C:\Users\Sagar\Documents\Sag\Phase1\Block Matching\Block Matching\bin\Debug\AForge.Video.xml
+C:\Users\Sagar\Documents\Sag\Phase1\Block Matching\Block Matching\bin\Debug\AForge.Video.DirectShow.xml
+C:\Users\Sagar\Documents\Sag\Phase1\Block Matching\Block Matching\bin\Debug\AForge.Math.xml
